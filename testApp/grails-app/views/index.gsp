@@ -5,7 +5,7 @@
     <title>***Welcome to Grails***</title>
 
 </head>
-<body>
+<body style="background-color:pink;">
     <content tag="nav">
        https://shuspace.shu.ac.uk/
     </content>
@@ -14,13 +14,13 @@
 
     <div id="content" role="main">
         <section class="row colset-2-its">
-            <h1> System Architectures </h1>
+            <h1 style="color:blue;"> System Architectures </h1>
 		<h3> One</h3>
-		<p> This is example paragraph 1</p>
+		<p style="color:purple;"> This is example paragraph 1</p>
 		<h3> Two </h3>
-		<p> This is example paragraph 2 </p>
+		<p style="color:purple;"> This is example paragraph 2 </p>
 		<h3> Three </h3>
-		<p> This is example paragraph 3 </p>
+		<p style="color:purple;"> This is example paragraph 3 </p>
         </section>
     </div>
 
