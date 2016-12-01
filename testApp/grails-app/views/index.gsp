@@ -2,7 +2,7 @@
 <html>
 <head>
     
-    <title>**Welcom**</title>
+    <title>**Welcome**</title>
 
 </head>
 <body style="background-color:pink;">
