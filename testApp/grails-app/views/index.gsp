@@ -2,12 +2,13 @@
 <html>
 <head>
     
-    <title>***Welcome to Grails***</title>
+    <title>**Welcom**</title>
 
 </head>
 <body style="background-color:pink;">
     <content tag="nav">
-       https://shuspace.shu.ac.uk/
+	<a href="https://shuspace.shu.ac.uk/"> SHU Website</a>
+       
     </content>
 
    
